@@ -1,0 +1,8 @@
+a = int(input('Introduceti numarul a: '))
+b = int(input('Introduceti numarul b: '))
+print('suma numerelor este', a+b)
+print('diferenta numerelor este', a-b)
+print('catul impartirii numerelor este', a//b)
+print('restul impartirii numerelor este', a%b)
+print('produsul numerelor este', a*b)
+print('ridicarea la putere numerelor este', a**b)
