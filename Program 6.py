@@ -12,4 +12,4 @@ elif (n>=100) and (n<1000):
 elif (n>=1000) and (n<10000):
     print(f'Rasturnatul numarului {n} este ', n//1000 + (n//100)%10 * 10 +(n//10)%10 * 100 + n%10 * 1000)
 else:
-    print("Ati intodus un numar >= 10000 sau <0")
+    print("Ati introdus un numar >= 10000 sau <0")
