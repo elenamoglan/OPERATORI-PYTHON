@@ -14,3 +14,7 @@ elif (n>=1000) and (n<10000):
 else:
     print("Ati intodus un numar >= 10000 sau <0")
 
+"""
+
+"""
+
